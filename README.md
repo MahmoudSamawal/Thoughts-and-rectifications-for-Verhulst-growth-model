@@ -1,0 +1,1 @@
+# Thoughts-and-rectifications-for-Verhulst-growth-model
