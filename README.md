@@ -1,1 +1,3 @@
-# Thoughts-and-rectifications-for-Verhulst-growth-model
+# Thoughts and rectifications for Verhulst growth model: A scientific mathematization for a general theory of growth led to a fundamental law of growth
+This is a research article on growth modeling in which I used Euler's method to solve the differential equation of the model I developed. The fancy thing here is using Euler's method to solve an autonomous differential equation numerically.
+The preprint version: Samawal, Mahmoud, Thoughts and Rectifications for Verhulst Growth Model: a Scientific Mathematization for a General Theory of Growth Led to a Fundamental Law of Growth (May 15, 2023). Available at SSRN: https://ssrn.com/abstract=4448918 or http://dx.doi.org/10.2139/ssrn.4448918
